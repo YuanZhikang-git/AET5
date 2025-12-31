@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5e22445-05e1-4051-b73b-17316d0ddcad" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/data/tools/source_genes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/datasets/data/tools/symbol2hsa.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/cond_model.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/conditional_encoder.pt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/conditional_encoder_loss.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoints/generator_metrics.csv" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/datasets/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/torch_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/torch_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,12 +45,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/Course/paper/AET5/datasets/data",
+    "last_opened_file_path": "D:/Course/paper/AET5/datasets",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Course\paper\AET5\datasets" />
       <recent name="D:\Course\paper\AET5\datasets\data" />
       <recent name="D:\Course\paper\AET5" />
     </key>

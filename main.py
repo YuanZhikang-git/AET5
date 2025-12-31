@@ -9,7 +9,7 @@ from training.generator_train import train_conditional_molt5
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="GeneContrastiveModel training script")
 
-    parser.add_argument("--train_encoder", action="store_true", help="Flag to train the encoder")
+    parser.add_argument("--train_conditional_encoder", action="store_true", help="Flag to train the encoder")
     parser.add_argument("--use_conditional_encoder", action="store_true", help="Flag to use the encoder")
     parser.add_argument("--train_molecular_generator", action="store_true", help="Flag to train the generator")
     parser.add_argument("--use_molecular_generator", action="store_true", help="Flag to use the generator")
@@ -77,7 +77,7 @@ if __name__ == "__main__":
 
     ## train conditional encoder ##
 
-    if args.train_encoder:
+    if args.train_conditional_encoder:
         os.makedirs(args.save_dir, exist_ok=True)
         train(
             data_path=args.encoder_data_path,
