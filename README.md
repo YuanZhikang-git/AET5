@@ -4,7 +4,7 @@ This repository contains the PyTorch implementation of **TAPB**, which aims to a
 
 ## Framework👀
 
-![AET5](https://github.com/YuanZhikang-git/AET5/blob/main/image/overall.png)
+![AET5](https://github.com/YuanZhikang-git/AET5/blob/main/picture/overall.png)
 
 ## System Requirements👍
 
