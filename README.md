@@ -4,7 +4,7 @@ This repository contains the PyTorch implementation of **AET5**, which aims to g
 
 ## Framework👀
 
-![AET5](https://github.com/YuanZhikang-git/AET5/blob/main/picture/overa11.png)
+![AET5](https://github.com/YuanZhikang-git/AET5/blob/main/picture/overall.png)
 
 ## System Requirements👍
 
