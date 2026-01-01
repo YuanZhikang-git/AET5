@@ -1,6 +1,6 @@
 # GCLR-AET5: A Framework for Robust Linkage of Gene Expression to *De Novo* Molecular Design via Contrastive Learning🚀
 
-This repository contains the PyTorch implementation of **AET5**, which aims to generate potential bioactive molecules for specific diseases.
+This repository contains the PyTorch implementation of **AET5**, which aims to generate potential bioactive molecules for specific diseases. [![DOI](https://zenodo.org/badge/1125019230.svg)](https://doi.org/10.5281/zenodo.18112560)
 
 ## Framework👀
 
